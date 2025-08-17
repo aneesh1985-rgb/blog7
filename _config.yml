@@ -1,0 +1,18 @@
+title: "SkyNetHosting Blog"
+description: "Guides, case studies, and performance tips from SkyNetHosting."
+url: "https://blog.skynethosting.net"   # change if you don't use custom domain
+baseurl: ""
+
+# Theme: use built-in GitHub Pages-safe plugins
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO / social
+logo: /images/logo.png
+social:
+  name: SkyNetHosting
+  links:
+    - https://skynethosting.net
