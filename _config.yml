@@ -1,7 +1,7 @@
 title: "SkyNetHosting Blog"
 description: "Guides, case studies, and performance tips from SkyNetHosting."
-url: "https://blog.skynethosting.net"   # change if you don't use custom domain
-baseurl: ""
+url: "https://aneesh1985-rgb.github.io"   # change if you don't use custom domain
+baseurl: "/blog7"
 
 # Theme: use built-in GitHub Pages-safe plugins
 markdown: kramdown
